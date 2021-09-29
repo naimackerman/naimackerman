@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=naimackerman&count_private=true&show_icons=true&theme=algolia"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimackerman&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimackerman&theme=algolia&layout=compact&langs_count=8"/>
 </p>
